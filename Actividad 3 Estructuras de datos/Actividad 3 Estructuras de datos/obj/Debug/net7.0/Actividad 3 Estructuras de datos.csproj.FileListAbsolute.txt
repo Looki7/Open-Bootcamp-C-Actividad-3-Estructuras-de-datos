@@ -1,0 +1,15 @@
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/bin/Debug/net7.0/Actividad 3 Estructuras de datos
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/bin/Debug/net7.0/Actividad 3 Estructuras de datos.deps.json
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/bin/Debug/net7.0/Actividad 3 Estructuras de datos.runtimeconfig.json
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/bin/Debug/net7.0/Actividad 3 Estructuras de datos.dll
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/bin/Debug/net7.0/Actividad 3 Estructuras de datos.pdb
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/Actividad 3 Estructuras de datos.csproj.AssemblyReference.cache
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/Actividad 3 Estructuras de datos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/Actividad 3 Estructuras de datos.AssemblyInfoInputs.cache
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/Actividad 3 Estructuras de datos.AssemblyInfo.cs
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/Actividad 3 Estructuras de datos.csproj.CoreCompileInputs.cache
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/Actividad 3 Estructuras de datos.dll
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/refint/Actividad 3 Estructuras de datos.dll
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/Actividad 3 Estructuras de datos.pdb
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/Actividad 3 Estructuras de datos.genruntimeconfig.cache
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 3 Estructuras de datos/Actividad 3 Estructuras de datos/obj/Debug/net7.0/ref/Actividad 3 Estructuras de datos.dll
